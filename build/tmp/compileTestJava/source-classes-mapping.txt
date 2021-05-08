@@ -1,0 +1,10 @@
+com/gradle/Uno/UnoCardTest.java
+ com.gradle.Uno.UnoCardTest
+com/gradle/Uno/UnoCardFactoryTest.java
+ com.gradle.Uno.UnoCardFactoryTest
+com/gradle/Uno/UnoCardBunchTest.java
+ com.gradle.Uno.UnoCardBunchTest
+com/gradle/Uno/UnoDeckTest.java
+ com.gradle.Uno.UnoDeckTest
+com/gradle/Uno/UnoHandTest.java
+ com.gradle.Uno.UnoHandTest

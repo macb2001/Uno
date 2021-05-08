@@ -1,0 +1,14 @@
+com/gradle/Uno/DummyMain.java
+ com.gradle.Uno.DummyMain
+com/gradle/Uno/UnoCardBunch.java
+ com.gradle.Uno.UnoCardBunch
+com/gradle/Uno/UnoDeck.java
+ com.gradle.Uno.UnoDeck
+com/gradle/Uno/UnoCardFactory.java
+ com.gradle.Uno.UnoCardFactory
+com/gradle/Uno/UnoCard.java
+ com.gradle.Uno.UnoCard
+ com.gradle.Uno.UnoCard$Colour
+ com.gradle.Uno.UnoCard$Rank
+com/gradle/Uno/UnoHand.java
+ com.gradle.Uno.UnoHand
